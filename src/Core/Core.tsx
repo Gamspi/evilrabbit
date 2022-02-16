@@ -1,10 +1,11 @@
 import React, {FC} from 'react';
 import './Core.scss';
+import AppRouter from "./components/AppRouter";
 
 const Core: FC = () => {
     return (
-        <div className="App">
-            Работает!!
+        <div className="Core">
+            <AppRouter/>
         </div>
     );
 }

@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+
+.Core {
+  color: #ffffff;
+  text-align: center;
+  background: #383838;
+  height: 100vh;
+
+  h1:first-letter {
+    color: red;
+  }
+
+}
