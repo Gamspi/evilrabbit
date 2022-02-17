@@ -7,7 +7,7 @@ export interface IRoute {
     element: any
 }
 
-enum RouteName {
+export enum RouteName {
     LOGIN = '/login',
     MAIN = '/',
     ANY = '*'

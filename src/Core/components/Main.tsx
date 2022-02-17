@@ -2,11 +2,10 @@ import React, {FC} from 'react';
 
 
 const Main: FC = () => {
-    return(
+    return (
         <>
-        <h1>Main</h1>
+            <h1>Main</h1>
         </>
     )
-
 }
 export default Main
